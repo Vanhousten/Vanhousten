@@ -16,14 +16,6 @@
 
 *Small, useful work over vague claims.*
 
-## Things I’m building
-<!-- PROJECTS:START -->
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Vanhousten/Vanhousten">Vanhousten</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Vanhousten/sistem-informasi-kelola-surat-pemerintah">sistem-informasi-kelola-surat-pemerintah</a></b></td><td>Aplikasi web Sistem Informasi Pengelolaan Surat Masuk dan Surat Keluar berbasis PHP.<br/><sub>PHP · 0 stars</sub></td></tr>
-</table>
-<!-- PROJECTS:END -->
-
 ## Tech Stacks
 <div align="center">
 

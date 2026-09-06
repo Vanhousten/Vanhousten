@@ -23,8 +23,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Vanhousten/Vanhousten/main/ai-stack-orbit.svg" width="480"/>
-
 </div>
 
 ## Launch notes
